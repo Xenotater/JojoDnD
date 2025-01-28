@@ -205,7 +205,7 @@ function hint(attr) { //this whole thing should be replaced by json..
         case "AC Bonus":
             return("This weapon grants " + bonus + " to your AC while it is equipped.");
         case "Hunker":
-            return("While holding this item, if you've not moved this turn, you may gain " + cover + " Cover as a Bonus Action until the start of your turn, though this also reduces your Movement Speed to 0.");
+            return("While holding this item, if you've not moved this turn, you may gain " + cover + " Cover in one direction as a Bonus Action until the start of your turn, though this also reduces your Movement Speed to 0.");
         case "Reach":
             return("This weapon can attack targets from an additional meter away.");
         case "Conductive":

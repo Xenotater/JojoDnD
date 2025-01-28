@@ -146,6 +146,7 @@
         },
         {
             "linkFeatures": [
+                "Custom Ripple Technique",
                 "Slowed Aging",
                 "Ripple Possession"
             ],
@@ -167,7 +168,6 @@
         },
         {
             "linkFeatures": [
-                "Custom Ripple Technique",
                 "Ripple Regeneration",
                 "Ripple Perception"
             ],
@@ -297,6 +297,7 @@
         },
         {
             "linkFeatures": [
+                "Custom Spin Technique",
                 "Return to Sender",
                 "Spin Feature"
             ],
@@ -311,7 +312,7 @@
         },
         {
             "linkFeatures": [
-                "Custom Spin Technique",
+                "Spin Feature",
                 "Spin Feature"
             ]
         },
@@ -320,6 +321,7 @@
                 "Ability Score Improvement"
             ],
             "linkFeatures": [
+                "Spin Feature",
                 "Spin Feature"
             ]
         },
@@ -659,6 +661,9 @@
             "linkFeatures": [
                 "Programmed Stand",
                 "Stand Marking"
+            ],
+            "featFeatures": [
+                "Equalizer"
             ]
         },
         {
@@ -1004,6 +1009,9 @@
             "linkFeatures": [
                 "Detached Senses",
                 "Feat of Power"
+            ],
+            "featFeatures": [
+                "Equalizer"
             ]
         },
         {
@@ -1358,6 +1366,9 @@
         {
             "ability": [
                 "Ability Score Improvement"
+            ],
+            "linkFeatures": [
+                "Signature Move"
             ]
         },
         {
@@ -1480,6 +1491,9 @@
         {
             "ability": [
                 "Ability Score Improvement"
+            ],
+            "linkFeatures": [
+                "Signature Move"
             ]
         },
         {
@@ -1602,6 +1616,9 @@
         {
             "ability": [
                 "Ability Score Improvement"
+            ],
+            "linkFeatures": [
+                "Signature Move"
             ]
         },
         {
@@ -1720,6 +1737,9 @@
         {
             "ability": [
                 "Ability Score Improvement"
+            ],
+            "linkFeatures": [
+                "Signature Move"
             ]
         },
         {
@@ -1851,6 +1871,9 @@
         {
             "ability": [
                 "Ability Score Improvement"
+            ],
+            "linkFeatures": [
+                "Signature Move"
             ]
         },
         {
@@ -1969,6 +1992,9 @@
         {
             "ability": [
                 "Ability Score Improvement"
+            ],
+            "linkFeatures": [
+                "Signature Move"
             ]
         },
         {
@@ -2089,6 +2115,9 @@
         {
             "ability": [
                 "Ability Score Improvement"
+            ],
+            "linkFeatures": [
+                "Signature Move"
             ]
         },
         {

@@ -39,7 +39,8 @@
           "<p>Your Familiar will have a number of <a class='in-page' id='Always_Alert-link'>Familiar Feats</a> equal to half of the <a href='/Feats'>Feats</a> that you have, rounded up. For example, if you have 3 Feats, your Familiar has 2.</p>",
           "<p>In order for your Familiar to awaken a Stand, both of you must take the <a href='/feats/?focus=Familiar_Fighting_Spirit'>Familiar Fighting Spirit</a> Feat.</p>",
           "<p>Your Familiar will follow your lead in combat, taking their Turn in Initiative directly after yours.</p>",
-          "<p>Your Familiar will Level-Up alongside you, and will always be the same Level as you.</p>"
+          "<p>Your Familiar will Level-Up alongside you, and will always be the same Level as you.</p>",
+          "<p>If your Familiar is Downed it does not have to make Death Saves but may simply remain unconscious at 0 hp. Familiars cannot be truly killed unless its owner is killed.</p>"
         ]
       }
     ],
@@ -698,6 +699,10 @@
       "Excavator": {
         "name": "Excavator",
         "desc": ["Your Familiar gains a Burrow Speed equal to half of their Movement Speed, or Flying/Swimming Speed if that is their highest Movement Speed."]
+      },
+      "Extra_Sense": {
+        "name": "Extra Sense",
+        "desc": ["Your Familiar gains one of the following additional senses:<ul class='sublist'><li>Echolocation: Your Familiar gains 10 meters of Blindsense. They gain an additional 10m if there is noise being made in the area. They may make the noise themselves as well but this grants a -4 penalty to Sneak Checks. Your Familiar must be able to hear to use this.</li><li>Soulsense: Your Familiar gains 10 meters of Soulsense, which allows them to sense the souls of living creatures, including Stands and ghosts. They gain a +10 Bonus to Perception Checks using this sense. This sense is not restricted by walls or barriers, and it may be used to determine if a soul has been in a location within the last minute. Undead and Constructs cannot be sensed this way.</li><li>Tremorsense: Your Familiar gains 10 meters of Tremorsense, allowing them to sense vibrations around them so long as they are connected to some kind of surface to feel the vibrations through. Your Familiar must be able to use its natural sense of touch to use this.</li></ul>"]
       },
       "Giants_Wrath": {
         "name": "Giant's Wrath",
